@@ -1,0 +1,32 @@
+[
+  {
+    "class": "CU",
+    "accuracy": 0.782608695652174,
+    "count": 46
+  },
+  {
+    "class": "FC",
+    "accuracy": 0.1724137931034483,
+    "count": 29
+  },
+  {
+    "class": "FF",
+    "accuracy": 0.8736842105263158,
+    "count": 95
+  },
+  {
+    "class": "FS",
+    "accuracy": 0.484375,
+    "count": 64
+  },
+  {
+    "class": "SI",
+    "accuracy": 0.375,
+    "count": 16
+  },
+  {
+    "class": "SL",
+    "accuracy": 0.1111111111111111,
+    "count": 9
+  }
+]

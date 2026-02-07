@@ -1,0 +1,322 @@
+[
+  {
+    "run_name": "len180_hid128_uni_lr0.0003_drop0.2",
+    "max_seq_len": 180,
+    "hidden_size": 128,
+    "lr": 0.0003,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5752895752895753,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len180_hid128_uni_lr0.0003_drop0.2"
+  },
+  {
+    "run_name": "len180_hid128_uni_lr0.0003_drop0.3",
+    "max_seq_len": 180,
+    "hidden_size": 128,
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5637065637065637,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len180_hid128_uni_lr0.0003_drop0.3"
+  },
+  {
+    "run_name": "len180_hid128_uni_lr0.0001_drop0.2",
+    "max_seq_len": 180,
+    "hidden_size": 128,
+    "lr": 0.0001,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5791505791505791,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len180_hid128_uni_lr0.0001_drop0.2"
+  },
+  {
+    "run_name": "len180_hid128_uni_lr0.0001_drop0.3",
+    "max_seq_len": 180,
+    "hidden_size": 128,
+    "lr": 0.0001,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5868725868725869,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len180_hid128_uni_lr0.0001_drop0.3"
+  },
+  {
+    "run_name": "len180_hid192_uni_lr0.0003_drop0.2",
+    "max_seq_len": 180,
+    "hidden_size": 192,
+    "lr": 0.0003,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5868725868725869,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len180_hid192_uni_lr0.0003_drop0.2"
+  },
+  {
+    "run_name": "len180_hid192_uni_lr0.0003_drop0.3",
+    "max_seq_len": 180,
+    "hidden_size": 192,
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5791505791505791,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len180_hid192_uni_lr0.0003_drop0.3"
+  },
+  {
+    "run_name": "len180_hid192_uni_lr0.0001_drop0.2",
+    "max_seq_len": 180,
+    "hidden_size": 192,
+    "lr": 0.0001,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5637065637065637,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len180_hid192_uni_lr0.0001_drop0.2"
+  },
+  {
+    "run_name": "len180_hid192_uni_lr0.0001_drop0.3",
+    "max_seq_len": 180,
+    "hidden_size": 192,
+    "lr": 0.0001,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5791505791505791,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len180_hid192_uni_lr0.0001_drop0.3"
+  },
+  {
+    "run_name": "len240_hid128_uni_lr0.0003_drop0.2",
+    "max_seq_len": 240,
+    "hidden_size": 128,
+    "lr": 0.0003,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5907335907335908,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len240_hid128_uni_lr0.0003_drop0.2"
+  },
+  {
+    "run_name": "len240_hid128_uni_lr0.0003_drop0.3",
+    "max_seq_len": 240,
+    "hidden_size": 128,
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5907335907335908,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len240_hid128_uni_lr0.0003_drop0.3"
+  },
+  {
+    "run_name": "len240_hid128_uni_lr0.0001_drop0.2",
+    "max_seq_len": 240,
+    "hidden_size": 128,
+    "lr": 0.0001,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.583011583011583,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len240_hid128_uni_lr0.0001_drop0.2"
+  },
+  {
+    "run_name": "len240_hid128_uni_lr0.0001_drop0.3",
+    "max_seq_len": 240,
+    "hidden_size": 128,
+    "lr": 0.0001,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.6061776061776062,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len240_hid128_uni_lr0.0001_drop0.3"
+  },
+  {
+    "run_name": "len240_hid192_uni_lr0.0003_drop0.2",
+    "max_seq_len": 240,
+    "hidden_size": 192,
+    "lr": 0.0003,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.6254826254826255,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len240_hid192_uni_lr0.0003_drop0.2"
+  },
+  {
+    "run_name": "len240_hid192_uni_lr0.0003_drop0.3",
+    "max_seq_len": 240,
+    "hidden_size": 192,
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.6061776061776062,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len240_hid192_uni_lr0.0003_drop0.3"
+  },
+  {
+    "run_name": "len240_hid192_uni_lr0.0001_drop0.2",
+    "max_seq_len": 240,
+    "hidden_size": 192,
+    "lr": 0.0001,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5714285714285714,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len240_hid192_uni_lr0.0001_drop0.2"
+  },
+  {
+    "run_name": "len240_hid192_uni_lr0.0001_drop0.3",
+    "max_seq_len": 240,
+    "hidden_size": 192,
+    "lr": 0.0001,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5752895752895753,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len240_hid192_uni_lr0.0001_drop0.3"
+  },
+  {
+    "run_name": "len300_hid128_uni_lr0.0003_drop0.2",
+    "max_seq_len": 300,
+    "hidden_size": 128,
+    "lr": 0.0003,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5868725868725869,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len300_hid128_uni_lr0.0003_drop0.2"
+  },
+  {
+    "run_name": "len300_hid128_uni_lr0.0003_drop0.3",
+    "max_seq_len": 300,
+    "hidden_size": 128,
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5907335907335908,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len300_hid128_uni_lr0.0003_drop0.3"
+  },
+  {
+    "run_name": "len300_hid128_uni_lr0.0001_drop0.2",
+    "max_seq_len": 300,
+    "hidden_size": 128,
+    "lr": 0.0001,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5868725868725869,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len300_hid128_uni_lr0.0001_drop0.2"
+  },
+  {
+    "run_name": "len300_hid128_uni_lr0.0001_drop0.3",
+    "max_seq_len": 300,
+    "hidden_size": 128,
+    "lr": 0.0001,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5984555984555985,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len300_hid128_uni_lr0.0001_drop0.3"
+  },
+  {
+    "run_name": "len300_hid192_uni_lr0.0003_drop0.2",
+    "max_seq_len": 300,
+    "hidden_size": 192,
+    "lr": 0.0003,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.6177606177606177,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len300_hid192_uni_lr0.0003_drop0.2"
+  },
+  {
+    "run_name": "len300_hid192_uni_lr0.0003_drop0.3",
+    "max_seq_len": 300,
+    "hidden_size": 192,
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.6332046332046332,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len300_hid192_uni_lr0.0003_drop0.3"
+  },
+  {
+    "run_name": "len300_hid192_uni_lr0.0001_drop0.2",
+    "max_seq_len": 300,
+    "hidden_size": 192,
+    "lr": 0.0001,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5598455598455598,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len300_hid192_uni_lr0.0001_drop0.2"
+  },
+  {
+    "run_name": "len300_hid192_uni_lr0.0001_drop0.3",
+    "max_seq_len": 300,
+    "hidden_size": 192,
+    "lr": 0.0001,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5675675675675675,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len300_hid192_uni_lr0.0001_drop0.3"
+  },
+  {
+    "run_name": "len330_hid128_uni_lr0.0003_drop0.2",
+    "max_seq_len": 330,
+    "hidden_size": 128,
+    "lr": 0.0003,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5907335907335908,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len330_hid128_uni_lr0.0003_drop0.2"
+  },
+  {
+    "run_name": "len330_hid128_uni_lr0.0003_drop0.3",
+    "max_seq_len": 330,
+    "hidden_size": 128,
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5907335907335908,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len330_hid128_uni_lr0.0003_drop0.3"
+  },
+  {
+    "run_name": "len330_hid128_uni_lr0.0001_drop0.2",
+    "max_seq_len": 330,
+    "hidden_size": 128,
+    "lr": 0.0001,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5675675675675675,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len330_hid128_uni_lr0.0001_drop0.2"
+  },
+  {
+    "run_name": "len330_hid128_uni_lr0.0001_drop0.3",
+    "max_seq_len": 330,
+    "hidden_size": 128,
+    "lr": 0.0001,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5945945945945946,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len330_hid128_uni_lr0.0001_drop0.3"
+  },
+  {
+    "run_name": "len330_hid192_uni_lr0.0003_drop0.2",
+    "max_seq_len": 330,
+    "hidden_size": 192,
+    "lr": 0.0003,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.6177606177606177,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len330_hid192_uni_lr0.0003_drop0.2"
+  },
+  {
+    "run_name": "len330_hid192_uni_lr0.0003_drop0.3",
+    "max_seq_len": 330,
+    "hidden_size": 192,
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.640926640926641,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len330_hid192_uni_lr0.0003_drop0.3"
+  },
+  {
+    "run_name": "len330_hid192_uni_lr0.0001_drop0.2",
+    "max_seq_len": 330,
+    "hidden_size": 192,
+    "lr": 0.0001,
+    "dropout": 0.2,
+    "epochs": 60,
+    "best_val_acc": 0.5868725868725869,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len330_hid192_uni_lr0.0001_drop0.2"
+  },
+  {
+    "run_name": "len330_hid192_uni_lr0.0001_drop0.3",
+    "max_seq_len": 330,
+    "hidden_size": 192,
+    "lr": 0.0001,
+    "dropout": 0.3,
+    "epochs": 60,
+    "best_val_acc": 0.5598455598455598,
+    "out_dir": "baseball-z/outputs/grid_search_cnn_lstm_atten/len330_hid192_uni_lr0.0001_drop0.3"
+  }
+]
